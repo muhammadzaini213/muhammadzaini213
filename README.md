@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Flutter, Express, Javascript, Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/muhammadzaini213/Portofolio_Muhammad_Zaini](https://github.com/muhammadzaini213/Portofolio_Muhammad_Zaini)
+- 👨‍💻 All of my projects are available at [https://github.com/muhammadzaini213/Portofolio_Muhammad_Zaini](https://portofolio-muhammad-zaini-muhammadzaini213s-projects.vercel.app)
 
 - 💬 Ask me about **Python, Javascript, Java**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/m. zaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m. zaini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m-zaini-a8582b306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m. zaini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
