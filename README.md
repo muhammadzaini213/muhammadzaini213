@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java for android, Kotlin, and Flutter**
 
-- 📫 How to reach me **[gamerlemah15@gmail.com](mailto: gamerlemah15@gmail.com)**
+- 📫 How to reach me [gamerlemah15@gmail.com](mailto: gamerlemah15@gmail.com)
 
 - ⚡ Fun fact **Sometimes i doing some pentest exam websites**
 
