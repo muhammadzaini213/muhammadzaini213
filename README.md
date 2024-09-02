@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaini</h1>
 <h3 align="center">I'm an aspiring mobile and game developer from Indonesia, nice to meet ya!</h3>
 
-- 🔭 I’m currently working on [Ujian Kita](https://github.com/muhammadzaini213/Ujian_Kita)
+- 🔭 I’m currently studying on [ITK](https://itk.ac.id/)
 
 - 🌱 I’m currently learning **Python, Flutter, Express, Javascript, Kotlin**
 
