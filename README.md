@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Flutter, Express, Javascript, Kotlin**
 
-- 👨‍💻 All of my projects are available at [My Portofolio](https://portofolio-muhammad-zaini-muhammadzaini213s-projects.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portofolio](portofolio-teal-phi.vercel.app)
 
 - 💬 Ask me about **Python, Javascript, Java**
 
