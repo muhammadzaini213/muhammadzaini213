@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm an aspiring mobile and game developer from Indonesia, nice to meet ya!
-
+I’m an aspiring game developer and CTF player from Indonesia, nice to meet ya!
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gamerlemah15@gmail.com) 
