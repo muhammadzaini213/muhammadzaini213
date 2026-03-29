@@ -167,6 +167,10 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
 
 ---
 
+## GITHUB STATS
+[![Zaini's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=muhammadzaini213&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+---
+
 ## CONNECT
 
 [![Email](https://img.shields.io/badge/Email-fed001?style=for-the-badge&logo=gmail&logoColor=1a1a00)](mailto:gamerlemah15@gmail.com)
