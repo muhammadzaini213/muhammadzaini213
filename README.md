@@ -1,55 +1,91 @@
 # MUHAMMAD ZAINI
-**Game Programmer · CTF Player · Web Developer**
-
-📍 Balikpapan, Indonesia  |  🎓 ITK — GPA: 3.72  |  🎮 Unity · Godot
+<p align="left">
+  <img src="https://img.shields.io/badge/UNITY GAME DEVELOPER-fed001?style=for-the-badge&logo=unity&logoColor=1a1a00" />
+  <img src="https://img.shields.io/badge/BALIKPAPAN • INDONESIA-2d2d2d?style=for-the-badge&logo=googlemaps&logoColor=fed001" />
+  <img src="https://img.shields.io/badge/ITK • GPA 3.72-2d2d2d?style=for-the-badge&logo=bookstack&logoColor=fed001" />
+</p>
 
 ---
 
-## 🎮 MY GAMES
+## MY GAMES
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="LINK_GAME">
-        <img src="COVER_IMAGE_URL" width="100%" alt="Yappie Cleaning Service" />
+      <a href="https://sleepymor.itch.io/yappie-cleaning-service">
+        <img src="https://github.com/user-attachments/assets/6b1a241c-7ead-4c2c-90c4-bc8c18f973bb" width="100%" alt="Yappie Cleaning Service" />
       </a>
-      <br/><br/>
-      <strong>YAPPIE CLEANING SERVICE</strong><br/>
-      <sub>🛠 Unity Programmer · UI Designer</sub><br/>
-      <sub>2D top-down RPG — beach cleaning mechanics. GEMASTIK XVIII.</sub><br/><br/>
-      <a href="LINK_GITHUB_REPO"><img src="https://img.shields.io/badge/GitHub-2d2d2d?style=flat-square&logo=github&logoColor=fed001" /></a>
-      <a href="LINK_ITCHIO"><img src="https://img.shields.io/badge/itch.io-2d2d2d?style=flat-square&logo=itch.io&logoColor=fed001" /></a>
     </td>
     <td align="center" width="33%">
-      <a href="LINK_GAME">
-        <img src="COVER_IMAGE_URL" width="100%" alt="Deck of Ascent" />
+      <a href="https://sleepymor.itch.io/deck-of-ascent">
+        <img src="https://github.com/user-attachments/assets/1c2b7816-6068-4670-8a1c-bfac73d8f917" width="100%" alt="Deck of Ascent" />
       </a>
-      <br/><br/>
-      <strong>DECK OF ASCENT</strong><br/>
-      <sub>🛠 Unity Programmer</sub><br/>
-      <sub>Card-based game. GIMERSIA GameJam — rapid prototyping & polish.</sub><br/><br/>
-      <a href="LINK_GITHUB_REPO"><img src="https://img.shields.io/badge/GitHub-2d2d2d?style=flat-square&logo=github&logoColor=fed001" /></a>
-      <a href="LINK_ITCHIO"><img src="https://img.shields.io/badge/itch.io-2d2d2d?style=flat-square&logo=itch.io&logoColor=fed001" /></a>
     </td>
     <td align="center" width="33%">
-      <!-- DUPLIKAT BLOK INI UNTUK GAME BARU
-      <a href="LINK_GAME">
-        <img src="COVER_IMAGE_URL" width="100%" alt="NAMA GAME" />
+      <a href="https://lordzaini.itch.io/solar-siege">
+        <img src="https://github.com/user-attachments/assets/47fbf450-2233-4b4a-9f97-30a3d972d2cb" width="100%" alt="Solar Siege" />
       </a>
-      <br/><br/>
-      <strong>NAMA GAME</strong><br/>
-      <sub>🛠 ROLE KAMU</sub><br/>
-      <sub>DESKRIPSI SINGKAT.</sub><br/><br/>
-      <a href="LINK_GITHUB_REPO"><img src="https://img.shields.io/badge/GitHub-2d2d2d?style=flat-square&logo=github&logoColor=fed001" /></a>
-      <a href="LINK_ITCHIO"><img src="https://img.shields.io/badge/itch.io-2d2d2d?style=flat-square&logo=itch.io&logoColor=fed001" /></a>
-      -->
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <strong>YAPPIE CLEANING SERVICE</strong><br/>
+      <sub>Unity Programmer · UI Designer</sub><br/>
+      <sub>2D top-down RPG. Made for GEMASTIK XVIII.</sub>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <strong>DECK OF ASCENT</strong><br/>
+      <sub>Unity Programmer</sub><br/>
+      <sub>A combination of card based game & turn based strategy. Created in GIMERSIA GAMEJAM 2025.</sub>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <strong>SOLAR SIEGE</strong><br/>
+      <sub>Game Designer · Unity Programmer</sub><br/>
+      <sub>Top down bullet hell game. Submitted in Planet Gamejam #12.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <a href="https://github.com/sleepymor/StardustStudio-YAPPIECleaningService"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://sleepymor.itch.io/yappie-cleaning-service"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+    </td>
+    <td align="center">
+      <br/>
+      <a href="https://github.com/sleepymor/GlobalIllumination-GimersiaJam"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+    </td>
+    <td align="center">
+      <br/>
+      <a href="https://github.com/muhammadzaini213/Solar-Siege"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/solar-siege"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="33%">
+      <br/><br/>
+      <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn">
+        <img src="https://github.com/user-attachments/assets/4f0e36a5-a81a-479f-9ae6-1057e8213753" width="100%" alt="4D Tic Tac Toe With Simultaneous Turn" />
+      </a>
+      <br/><br/>
+      <strong>4D Tic Tac Toe With Simultaneous Turn</strong><br/>
+      <sub>Game Designer · Unity Programmer</sub><br/>
+      <sub>Tic Tac Toe but in 4D. Experimental Project</sub><br/><br/>
+      <a href="https://github.com/muhammadzaini213/4d-Tic-Tac-Toe"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+      <br/><br/>
+    </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
 </table>
-
 ---
 
-## 🛠 TECH STACK
+## TECH STACK
 
 **Game Dev**
 ![Unity](https://img.shields.io/badge/Unity-2d2d2d?style=flat-square&logo=unity&logoColor=fed001)
@@ -77,20 +113,7 @@
 
 ---
 
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzaini213&theme=dark&hide_border=true&bg_color=222222&title_color=fed001&text_color=ffffff&icon_color=fed001" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzaini213&theme=dark&hide_border=true&layout=compact&bg_color=222222&title_color=fed001&text_color=ffffff" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=muhammadzaini213&theme=dark&hide_border=true&background=222222&ring=fed001&fire=fed001&currStreakLabel=fed001" />
-</p>
-
----
-
-## 🌐 CONNECT
+## CONNECT
 
 [![Email](https://img.shields.io/badge/Email-fed001?style=for-the-badge&logo=gmail&logoColor=1a1a00)](mailto:gamerlemah15@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2d2d2d?style=for-the-badge&logo=firefox&logoColor=fed001)](https://portofolio-teal-phi.vercel.app/)
