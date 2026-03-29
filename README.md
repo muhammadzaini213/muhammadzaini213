@@ -1,23 +1,97 @@
-# 💫 About Me:
-I’m an aspiring game developer and CTF player from Indonesia, nice to meet ya!
+# MUHAMMAD ZAINI
+**Game Programmer · CTF Player · Web Developer**
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gamerlemah15@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammadzaini213&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muhammadzaini213&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzaini213&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammadzaini213&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhammadzaini213&limit=5&theme=dark&combine_all_yearly_contributions=true)
+📍 Balikpapan, Indonesia  |  🎓 ITK — GPA: 3.72  |  🎮 Unity · Godot
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhammadzaini213&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎮 MY GAMES
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="LINK_GAME">
+        <img src="COVER_IMAGE_URL" width="100%" alt="Yappie Cleaning Service" />
+      </a>
+      <br/><br/>
+      <strong>YAPPIE CLEANING SERVICE</strong><br/>
+      <sub>🛠 Unity Programmer · UI Designer</sub><br/>
+      <sub>2D top-down RPG — beach cleaning mechanics. GEMASTIK XVIII.</sub><br/><br/>
+      <a href="LINK_GITHUB_REPO"><img src="https://img.shields.io/badge/GitHub-2d2d2d?style=flat-square&logo=github&logoColor=fed001" /></a>
+      <a href="LINK_ITCHIO"><img src="https://img.shields.io/badge/itch.io-2d2d2d?style=flat-square&logo=itch.io&logoColor=fed001" /></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="LINK_GAME">
+        <img src="COVER_IMAGE_URL" width="100%" alt="Deck of Ascent" />
+      </a>
+      <br/><br/>
+      <strong>DECK OF ASCENT</strong><br/>
+      <sub>🛠 Unity Programmer</sub><br/>
+      <sub>Card-based game. GIMERSIA GameJam — rapid prototyping & polish.</sub><br/><br/>
+      <a href="LINK_GITHUB_REPO"><img src="https://img.shields.io/badge/GitHub-2d2d2d?style=flat-square&logo=github&logoColor=fed001" /></a>
+      <a href="LINK_ITCHIO"><img src="https://img.shields.io/badge/itch.io-2d2d2d?style=flat-square&logo=itch.io&logoColor=fed001" /></a>
+    </td>
+    <td align="center" width="33%">
+      <!-- DUPLIKAT BLOK INI UNTUK GAME BARU
+      <a href="LINK_GAME">
+        <img src="COVER_IMAGE_URL" width="100%" alt="NAMA GAME" />
+      </a>
+      <br/><br/>
+      <strong>NAMA GAME</strong><br/>
+      <sub>🛠 ROLE KAMU</sub><br/>
+      <sub>DESKRIPSI SINGKAT.</sub><br/><br/>
+      <a href="LINK_GITHUB_REPO"><img src="https://img.shields.io/badge/GitHub-2d2d2d?style=flat-square&logo=github&logoColor=fed001" /></a>
+      <a href="LINK_ITCHIO"><img src="https://img.shields.io/badge/itch.io-2d2d2d?style=flat-square&logo=itch.io&logoColor=fed001" /></a>
+      -->
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 TECH STACK
+
+**Game Dev**
+![Unity](https://img.shields.io/badge/Unity-2d2d2d?style=flat-square&logo=unity&logoColor=fed001)
+![Godot](https://img.shields.io/badge/Godot-2d2d2d?style=flat-square&logo=godot-engine&logoColor=fed001)
+![C#](https://img.shields.io/badge/C%23-2d2d2d?style=flat-square&logo=csharp&logoColor=fed001)
+![Aseprite](https://img.shields.io/badge/Aseprite-2d2d2d?style=flat-square&logo=aseprite&logoColor=fed001)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-2d2d2d?style=flat-square&logo=next.js&logoColor=fed001)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-2d2d2d?style=flat-square&logo=svelte&logoColor=fed001)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-2d2d2d?style=flat-square&logo=tailwind-css&logoColor=fed001)
+![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat-square&logo=typescript&logoColor=fed001)
+
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-2d2d2d?style=flat-square&logo=laravel&logoColor=fed001)
+![FastAPI](https://img.shields.io/badge/FastAPI-2d2d2d?style=flat-square&logo=fastapi&logoColor=fed001)
+![Django](https://img.shields.io/badge/Django-2d2d2d?style=flat-square&logo=django&logoColor=fed001)
+![Node.js](https://img.shields.io/badge/Node.js-2d2d2d?style=flat-square&logo=node.js&logoColor=fed001)
+
+**Tools & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2d2d2d?style=flat-square&logo=docker&logoColor=fed001)
+![Firebase](https://img.shields.io/badge/Firebase-2d2d2d?style=flat-square&logo=firebase&logoColor=fed001)
+![Supabase](https://img.shields.io/badge/Supabase-2d2d2d?style=flat-square&logo=supabase&logoColor=fed001)
+![Vercel](https://img.shields.io/badge/Vercel-2d2d2d?style=flat-square&logo=vercel&logoColor=fed001)
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzaini213&theme=dark&hide_border=true&bg_color=222222&title_color=fed001&text_color=ffffff&icon_color=fed001" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzaini213&theme=dark&hide_border=true&layout=compact&bg_color=222222&title_color=fed001&text_color=ffffff" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=muhammadzaini213&theme=dark&hide_border=true&background=222222&ring=fed001&fire=fed001&currStreakLabel=fed001" />
+</p>
+
+---
+
+## 🌐 CONNECT
+
+[![Email](https://img.shields.io/badge/Email-fed001?style=for-the-badge&logo=gmail&logoColor=1a1a00)](mailto:gamerlemah15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2d2d2d?style=for-the-badge&logo=firefox&logoColor=fed001)](https://portofolio-teal-phi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=fed001)](https://github.com/muhammadzaini213)
