@@ -1,4 +1,6 @@
 # MUHAMMAD ZAINI
+Building gameplay systems that are scalable, reusable, and easy to iterate.
+<br>
 <p align="left">
   <img src="https://img.shields.io/badge/UNITY GAME DEVELOPER-fed001?style=for-the-badge&logo=unity&logoColor=1a1a00" />
   <img src="https://img.shields.io/badge/BALIKPAPAN • INDONESIA-2d2d2d?style=for-the-badge&logo=googlemaps&logoColor=fed001" />
@@ -6,6 +8,14 @@
 </p>
 
 ---
+
+## DESIGN FOCUS
+- Gameplay Systems
+- AI Behavior (FSM / HFSM / GOAP)
+- Optimization & Performance
+- Game Feel & Player Feedback
+
+--- 
 
 ## MY GAMES
 
@@ -160,4 +170,3 @@
 
 [![Email](https://img.shields.io/badge/Email-fed001?style=for-the-badge&logo=gmail&logoColor=1a1a00)](mailto:gamerlemah15@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2d2d2d?style=for-the-badge&logo=firefox&logoColor=fed001)](https://portofolio-teal-phi.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=fed001)](https://github.com/muhammadzaini213)
