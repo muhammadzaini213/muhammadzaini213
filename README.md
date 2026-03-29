@@ -2,7 +2,7 @@
 Building gameplay systems that are scalable, reusable, and easy to iterate.
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/UNITY GAME DEVELOPER-fed001?style=for-the-badge&logo=unity&logoColor=1a1a00" />
+  <img src="https://img.shields.io/badge/UNITY GAME DEVELOPER-fed001?style=for-the-badge&logo=unity&logoColor=2d2d2d" />
   <img src="https://img.shields.io/badge/BALIKPAPAN • INDONESIA-2d2d2d?style=for-the-badge&logo=googlemaps&logoColor=fed001" />
   <img src="https://img.shields.io/badge/ITK • GPA 3.72-2d2d2d?style=for-the-badge&logo=bookstack&logoColor=fed001" />
 </p>
