@@ -79,7 +79,7 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
   <tr>
     <td align="center" width="33%">
       <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn">
-        <img src="https://github.com/user-attachments/assets/3f705f14-961e-4c32-856d-8a73e54f9589" width="100%" alt="4D Tic Tac Toe With Simultaneous Turn" />
+        <img src="https://github.com/user-attachments/assets/09d7af30-61d1-4d47-8946-7a2894e750b3" width="100%" alt="4D Tic Tac Toe With Simultaneous Turn" />
       </a>
     </td>
     <td align="center" width="33%">
