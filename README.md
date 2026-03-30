@@ -23,17 +23,16 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
   <tr>
     <td align="center" width="33%">
       <a href="https://sleepymor.itch.io/yappie-cleaning-service">
-        <img src="https://github.com/user-attachments/assets/6b1a241c-7ead-4c2c-90c4-bc8c18f973bb" width="100%" alt="Yappie Cleaning Service" />
-      </a>
+        <img src="https://github.com/user-attachments/assets/32412663-fbc7-4d06-95e4-8666107acd67" width="100%" alt="Yappie Cleaning Service" />
     </td>
     <td align="center" width="33%">
       <a href="https://sleepymor.itch.io/deck-of-ascent">
-        <img src="https://github.com/user-attachments/assets/1c2b7816-6068-4670-8a1c-bfac73d8f917" width="100%" alt="Deck of Ascent" />
+        <img src="https://github.com/user-attachments/assets/2cd438a5-a927-4188-bbb5-0ddf25c0cb20" width="100%" alt="Deck of Ascent" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://lordzaini.itch.io/solar-siege">
-        <img src="https://github.com/user-attachments/assets/47fbf450-2233-4b4a-9f97-30a3d972d2cb" width="100%" alt="Solar Siege" />
+        <img src="https://github.com/user-attachments/assets/fe678e35-41df-4869-b372-321b9bd3a30a" width="100%" alt="Solar Siege" />
       </a>
     </td>
   </tr>
@@ -80,12 +79,12 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
   <tr>
     <td align="center" width="33%">
       <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn">
-        <img src="https://github.com/user-attachments/assets/4f0e36a5-a81a-479f-9ae6-1057e8213753" width="100%" alt="4D Tic Tac Toe With Simultaneous Turn" />
+        <img src="https://github.com/user-attachments/assets/3f705f14-961e-4c32-856d-8a73e54f9589" width="100%" alt="4D Tic Tac Toe With Simultaneous Turn" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://lordzaini.itch.io/absolute-zero">
-        <img src="https://github.com/user-attachments/assets/0de0119e-d0f1-427c-91de-884b4b7d47cb" width="100%" alt="Absolute Zero" />
+        <img src="https://github.com/user-attachments/assets/64e9d7d6-2beb-4aef-ab38-70baa04cfb10" width="100%" alt="Absolute Zero" />
       </a>
     </td>
     <!-- <td align="center" width="33%">
