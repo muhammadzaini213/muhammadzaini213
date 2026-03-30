@@ -173,4 +173,4 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
 ## CONNECT
 
 [![Email](https://img.shields.io/badge/Email-fed001?style=for-the-badge&logo=gmail&logoColor=1a1a00)](mailto:gamerlemah15@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2d2d2d?style=for-the-badge&logo=firefox&logoColor=fed001)](https://portofolio-teal-phi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2d2d2d?style=for-the-badge&logo=firefox&logoColor=fed001)](https://zaini-portofolio.vercel.app/)
