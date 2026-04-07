@@ -24,6 +24,7 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
     <td align="center" width="33%">
       <a href="https://sleepymor.itch.io/yappie-cleaning-service">
         <img src="https://github.com/user-attachments/assets/32412663-fbc7-4d06-95e4-8666107acd67" width="100%" alt="Yappie Cleaning Service" />
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://sleepymor.itch.io/deck-of-ascent">
@@ -36,7 +37,6 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
       </a>
     </td>
   </tr>
-  <tr></tr>
   <tr>
     <td align="center" valign="top">
       <br/>
@@ -48,16 +48,15 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
       <br/>
       <strong>DECK OF ASCENT</strong><br/>
       <sub>Unity Programmer</sub><br/>
-      <sub>A combination of card based game & turn based strategy. Created in GIMERSIA GAMEJAM 2025.</sub>
+      <sub>Card based & turn based strategy. GIMERSIA 2025.</sub>
     </td>
     <td align="center" valign="top">
       <br/>
       <strong>SOLAR SIEGE</strong><br/>
       <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>Top down bullet hell game. Submitted in Planet Gamejam #12.</sub>
+      <sub>Top down space bullet hell. Planet Gamejam #12.</sub>
     </td>
   </tr>
-  <tr></tr>
   <tr>
     <td align="center">
       <br/>
@@ -75,11 +74,15 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
       <a href="https://lordzaini.itch.io/solar-siege"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
   </tr>
-  <tr></tr>
   <tr>
     <td align="center" width="33%">
       <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn">
-        <img src="https://github.com/user-attachments/assets/09d7af30-61d1-4d47-8946-7a2894e750b3" width="100%" alt="4D Tic Tac Toe With Simultaneous Turn" />
+        <img src="https://github.com/user-attachments/assets/09d7af30-61d1-4d47-8946-7a2894e750b3" width="100%" alt="4D Tic Tac Toe" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://lordzaini.itch.io/the-hero-is-on-the-way">
+        <img src="https://github.com/user-attachments/assets/87e3747c-e3ac-41f3-8281-bc31feea2d8f" width="100%" alt="The Hero Is On The Way" />
       </a>
     </td>
     <td align="center" width="33%">
@@ -87,34 +90,27 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
         <img src="https://github.com/user-attachments/assets/64e9d7d6-2beb-4aef-ab38-70baa04cfb10" width="100%" alt="Absolute Zero" />
       </a>
     </td>
-    <!-- <td align="center" width="33%">
-      <a href="https://lordzaini.itch.io/solar-siege">
-        <img src="https://github.com/user-attachments/assets/47fbf450-2233-4b4a-9f97-30a3d972d2cb" width="100%" alt="Solar Siege" />
-      </a>
-    </td> -->
   </tr>
-  <tr></tr>
   <tr>
     <td align="center" valign="top">
       <br/>
-      <strong>4D TIC TAC TOE WITH SIMULTANEOUS TURN</strong><br/>
+      <strong>4D TIC TAC TOE</strong><br/>
       <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>4D Tic Tac Toe With Simultanenous Turn. Experimental Project</sub>
+      <sub>Experimental simultaneous turn strategy.</sub>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <strong>THE HERO IS ON THE WAY</strong><br/>
+      <sub>Game Designer · Unity Programmer</sub><br/>
+      <sub>Narrative-driven tactical defense. GIMERSIA 2024.</sub>
     </td>
     <td align="center" valign="top">
       <br/>
       <strong>ABSOLUTE ZERO</strong><br/>
       <sub>Game Designer</sub><br/>
-      <sub>Top Down Survival Shooter Game. Submitted in Mini Jame Gam #52</sub>
+      <sub>Tense Survival Shooter. Mini Jame Gam #52.</sub>
     </td>
-    <!-- <td align="center" valign="top">
-      <br/>
-      <strong>SOLAR SIEGE</strong><br/>
-      <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>Top down bullet hell game. Submitted in Planet Gamejam #12.</sub>
-    </td> -->
   </tr>
-  <tr></tr>
   <tr>
     <td align="center">
       <br/>
@@ -123,16 +119,14 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
     </td>
     <td align="center">
       <br/>
+      <a href="https://github.com/muhammadzaini213/The-Hero-Is-On-The-Way"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/the-hero-is-on-the-way"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+    </td>
+    <td align="center">
+      <br/>
       <a href="https://github.com/muhammadzaini213/Mini-Gamejam-52"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
       <a href="https://lordzaini.itch.io/absolute-zero"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
-    <!-- <td align="center">
-      <br/>
-      <a href="https://github.com/muhammadzaini213/Solar-Siege"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://lordzaini.itch.io/solar-siege"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
-    </td> -->
-  </tr>
-  <tr></tr>
   </tr>
 </table>
 
@@ -168,6 +162,7 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
 
 ## GITHUB STATS
 [![Zaini's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=muhammadzaini213&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 ---
 
 ## CONNECT
