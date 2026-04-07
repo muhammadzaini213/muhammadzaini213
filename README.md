@@ -1,6 +1,8 @@
 # MUHAMMAD ZAINI
-Building gameplay systems that are scalable, reusable, and easy to iterate.
+Building gameplay systems that are scalable, reusable, and optimized for rapid iteration under real production constraints.
+
 <br>
+
 <p align="left">
   <img src="https://img.shields.io/badge/UNITY GAME DEVELOPER-fed001?style=for-the-badge&logo=unity&logoColor=2d2d2d" />
   <img src="https://img.shields.io/badge/BALIKPAPAN • INDONESIA-2d2d2d?style=for-the-badge&logo=googlemaps&logoColor=fed001" />
@@ -10,12 +12,20 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
 ---
 
 ## DESIGN FOCUS
-- Gameplay Systems
-- AI Behavior (FSM / HFSM / GOAP)
-- Optimization & Performance
-- Game Feel & Player Feedback
+- Gameplay Systems Design (modular, scalable architecture)
+- AI Behavior (FSM / HFSM / GOAP, decision-driven design)
+- Optimization & Performance (runtime efficiency, iteration speed)
+- Game Feel & Player Feedback (responsiveness, clarity, feedback loops)
 
---- 
+---
+
+## DESIGN APPROACH
+- Prioritize iteration speed over premature complexity  
+- Build systems that are reusable but context-aware  
+- Balance design ambition with technical constraints  
+- Focus on player clarity before feature expansion  
+
+---
 
 ## MY GAMES
 
@@ -37,26 +47,37 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center" valign="top">
       <br/>
       <strong>YAPPIE CLEANING SERVICE</strong><br/>
       <sub>Unity Programmer · UI Designer</sub><br/>
-      <sub>2D top-down RPG. Made for GEMASTIK XVIII.</sub>
+      <sub>
+      Developed a 2D top-down RPG for GEMASTIK XVIII, focusing on UI clarity and usability.  
+      Designed interface systems to remain readable and responsive under rapid iteration and limited development time.
+      </sub>
     </td>
     <td align="center" valign="top">
       <br/>
       <strong>DECK OF ASCENT</strong><br/>
       <sub>Unity Programmer</sub><br/>
-      <sub>Card based & turn based strategy. GIMERSIA 2025.</sub>
+      <sub>
+      Built a turn-based card system with emphasis on clarity, modularity, and fast balancing.  
+      Structured core mechanics to support rapid iteration during a constrained game jam environment.
+      </sub>
     </td>
     <td align="center" valign="top">
       <br/>
       <strong>SOLAR SIEGE</strong><br/>
       <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>Top down space bullet hell. Planet Gamejam #12.</sub>
+      <sub>
+      Designed and implemented a modular enemy and shooting system for a top-down bullet hell.  
+      Prioritized stability and iteration speed by using FSM-based behaviors under tight time constraints.
+      </sub>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <br/>
@@ -74,6 +95,7 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
       <a href="https://lordzaini.itch.io/solar-siege"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="33%">
       <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn">
@@ -91,24 +113,34 @@ Building gameplay systems that are scalable, reusable, and easy to iterate.
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center" valign="top">
       <br/>
       <strong>4D TIC TAC TOE</strong><br/>
       <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>Experimental simultaneous turn strategy.</sub>
+      <sub>
+      Experimented with simultaneous turn-based mechanics in a multi-dimensional space.  
+      Focused on system clarity and resolving conflicting player actions deterministically.
+      </sub>
     </td>
     <td align="center" valign="top">
       <br/>
       <strong>THE HERO IS ON THE WAY</strong><br/>
       <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>Narrative-driven tactical defense. GIMERSIA 2024.</sub>
+      <sub>
+      Designed a tactical defense system integrating narrative progression with player decision-making.  
+      Balanced system depth with time constraints to maintain pacing and readability.
+      </sub>
     </td>
     <td align="center" valign="top">
       <br/>
       <strong>ABSOLUTE ZERO</strong><br/>
       <sub>Game Designer</sub><br/>
-      <sub>Tense Survival Shooter. Mini Jame Gam #52.</sub>
+      <sub>
+      Designed a survival shooter focused on tension and resource pressure.  
+      Emphasized player feedback and pacing to sustain engagement within a short session loop.
+      </sub>
     </td>
   </tr>
   <tr>
