@@ -199,6 +199,7 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
 
 ## CONNECT
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-fed001?style=for-the-badge&logo=firefox&logoColor=1a1a00)](https://zaini-portofolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-2d2d2d?style=for-the-badge&logo=gmail&logoColor=fed001)](mailto:gamerlemah15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fed001?style=for-the-badge&logo=google-chrome&logoColor=1a1a00)](https://zaini-portofolio.vercel.app/)
+[![Itch.io](https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001)](https://lordzaini.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiNmZWQwMDEiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43MjlWMjIuMjdjMCAuOTU1Ljc5MiAxLjczIDEuNzcxIDEuNzNoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI1IDI0IDIyLjI3VjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/muhammad-zaini-a8582b306)
+[![Email](https://img.shields.io/badge/Email-2d2d2d?style=for-the-badge&logo=gmail&logoColor=fed001)](mailto:gamerlemah15@gmail.com)
