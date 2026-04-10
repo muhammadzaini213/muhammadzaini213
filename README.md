@@ -37,13 +37,13 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://sleepymor.itch.io/deck-of-ascent">
-        <img src="https://github.com/user-attachments/assets/2cd438a5-a927-4188-bbb5-0ddf25c0cb20" width="100%" alt="Deck of Ascent" />
+      <a href="https://lordzaini.itch.io/intern-of-the-cosmos">
+        <img src="https://github.com/user-attachments/assets/b73df9a4-b8ea-4ba6-aa89-34ebfbb13df6" width="100%" alt="Intern of the Cosmos" />
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://lordzaini.itch.io/solar-siege">
-        <img src="https://github.com/user-attachments/assets/fe678e35-41df-4869-b372-321b9bd3a30a" width="100%" alt="Solar Siege" />
+      <a href="https://sleepymor.itch.io/deck-of-ascent">
+        <img src="https://github.com/user-attachments/assets/2cd438a5-a927-4188-bbb5-0ddf25c0cb20" width="100%" alt="Deck of Ascent" />
       </a>
     </td>
   </tr>
@@ -55,7 +55,16 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <sub>Unity Programmer · UI Designer</sub><br/>
       <sub>
       Developed a 2D top-down RPG for GEMASTIK XVIII, focusing on UI clarity and usability.  
-      Designed interface systems to remain readable and responsive under rapid iteration and limited development time.
+      Designed interface systems to remain readable and responsive under rapid iteration.
+      </sub>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <strong>INTERN OF THE COSMOS</strong><br/>
+      <sub>Lead Programmer · Asset Artist · Audio Engineer</sub><br/>
+      <sub>
+      Developed a physics-based "indirect control" game for GDGOC Game Jam. 
+      Engineered custom gravitational pull mechanics and orbital momentum systems.
       </sub>
     </td>
     <td align="center" valign="top">
@@ -63,17 +72,8 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <strong>DECK OF ASCENT</strong><br/>
       <sub>Unity Programmer</sub><br/>
       <sub>
-      Built a turn-based card system with emphasis on clarity, modularity, and fast balancing.  
-      Structured core mechanics to support rapid iteration during a constrained game jam environment.
-      </sub>
-    </td>
-    <td align="center" valign="top">
-      <br/>
-      <strong>SOLAR SIEGE</strong><br/>
-      <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>
-      Designed and implemented a modular enemy and shooting system for a top-down bullet hell.  
-      Prioritized stability and iteration speed by using FSM-based behaviors under tight time constraints.
+      Built a turn-based card system with emphasis on modularity and fast balancing.  
+      Structured core mechanics to support rapid iteration during a game jam environment.
       </sub>
     </td>
   </tr>
@@ -86,20 +86,20 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
     </td>
     <td align="center">
       <br/>
-      <a href="https://github.com/sleepymor/GlobalIllumination-GimersiaJam"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+      <a href="https://github.com/muhammadzaini213/TIM-3-GDGoC-UNSRI"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/intern-of-the-cosmos"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
     <td align="center">
       <br/>
-      <a href="https://github.com/muhammadzaini213/Solar-Siege"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://lordzaini.itch.io/solar-siege"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+      <a href="https://github.com/sleepymor/GlobalIllumination-GimersiaJam"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="33%">
-      <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn">
-        <img src="https://github.com/user-attachments/assets/09d7af30-61d1-4d47-8946-7a2894e750b3" width="100%" alt="4D Tic Tac Toe" />
+      <a href="https://lordzaini.itch.io/solar-siege">
+        <img src="https://github.com/user-attachments/assets/fe678e35-41df-4869-b372-321b9bd3a30a" width="100%" alt="Solar Siege" />
       </a>
     </td>
     <td align="center" width="33%">
@@ -108,8 +108,8 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://lordzaini.itch.io/absolute-zero">
-        <img src="https://github.com/user-attachments/assets/64e9d7d6-2beb-4aef-ab38-70baa04cfb10" width="100%" alt="Absolute Zero" />
+      <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn">
+        <img src="https://github.com/user-attachments/assets/09d7af30-61d1-4d47-8946-7a2894e750b3" width="100%" alt="4D Tic Tac Toe" />
       </a>
     </td>
   </tr>
@@ -117,11 +117,11 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
   <tr>
     <td align="center" valign="top">
       <br/>
-      <strong>4D TIC TAC TOE</strong><br/>
+      <strong>SOLAR SIEGE</strong><br/>
       <sub>Game Designer · Unity Programmer</sub><br/>
       <sub>
-      Experimented with simultaneous turn-based mechanics in a multi-dimensional space.  
-      Focused on system clarity and resolving conflicting player actions deterministically.
+      Implemented a modular shooting system and FSM-based enemy behaviors. 
+      Prioritized runtime performance and rapid iteration under tight constraints.
       </sub>
     </td>
     <td align="center" valign="top">
@@ -129,25 +129,25 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <strong>THE HERO IS ON THE WAY</strong><br/>
       <sub>Game Designer · Unity Programmer</sub><br/>
       <sub>
-      Designed a tactical defense system integrating narrative progression with player decision-making.  
-      Balanced system depth with time constraints to maintain pacing and readability.
+      Designed a tactical defense system integrating narrative with player decision-making.  
+      Balanced system depth with time constraints to maintain readability.
       </sub>
     </td>
     <td align="center" valign="top">
       <br/>
-      <strong>ABSOLUTE ZERO</strong><br/>
-      <sub>Game Designer</sub><br/>
+      <strong>4D TIC TAC TOE</strong><br/>
+      <sub>Game Designer · Unity Programmer</sub><br/>
       <sub>
-      Designed a survival shooter focused on tension and resource pressure.  
-      Emphasized player feedback and pacing to sustain engagement within a short session loop.
+      Experimented with simultaneous turn-based mechanics in a multi-dimensional space.  
+      Focused on deterministic conflict resolution and spatial strategy.
       </sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <br/>
-      <a href="https://github.com/muhammadzaini213/4d-Tic-Tac-Toe"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+      <a href="https://github.com/muhammadzaini213/Solar-Siege"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/solar-siege"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
     <td align="center">
       <br/>
@@ -156,8 +156,8 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
     </td>
     <td align="center">
       <br/>
-      <a href="https://github.com/muhammadzaini213/Mini-Gamejam-52"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://lordzaini.itch.io/absolute-zero"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+      <a href="https://github.com/muhammadzaini213/4d-Tic-Tac-Toe"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
   </tr>
 </table>
