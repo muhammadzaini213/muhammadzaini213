@@ -28,136 +28,77 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
 ---
 
 ## MY GAMES
-
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://sleepymor.itch.io/yappie-cleaning-service">
-        <img src="https://github.com/user-attachments/assets/32412663-fbc7-4d06-95e4-8666107acd67" width="100%" alt="Yappie Cleaning Service" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://lordzaini.itch.io/intern-of-the-cosmos">
-        <img src="https://github.com/user-attachments/assets/b73df9a4-b8ea-4ba6-aa89-34ebfbb13df6" width="100%" alt="Intern of the Cosmos" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://sleepymor.itch.io/deck-of-ascent">
-        <img src="https://github.com/user-attachments/assets/2cd438a5-a927-4188-bbb5-0ddf25c0cb20" width="100%" alt="Deck of Ascent" />
-      </a>
-    </td>
+    <td align="center" width="33%"><a href="https://sleepymor.itch.io/yappie-cleaning-service"><img src="https://github.com/user-attachments/assets/32412663-fbc7-4d06-95e4-8666107acd67" width="100%" alt="YAPPIE CLEANING SERVICE" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/intern-of-the-cosmos"><img src="https://github.com/user-attachments/assets/b73df9a4-b8ea-4ba6-aa89-34ebfbb13df6" width="100%" alt="INTERN OF THE COSMOS" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://github.com/user-attachments/assets/bd80a713-e116-4f45-8fdb-63f5fc2b536f" width="100%" alt="OMNI-GEAR PROTOCOL" /></a></td>
   </tr>
-
   <tr>
-    <td align="center" valign="top">
-      <br/>
+    <td align="center" valign="top"><br/>
       <strong>YAPPIE CLEANING SERVICE</strong><br/>
       <sub>Unity Programmer · UI Designer</sub><br/>
-      <sub>
-      Developed a 2D top-down RPG for GEMASTIK XVIII, focusing on UI clarity and usability.  
-      Designed interface systems to remain readable and responsive under rapid iteration.
-      </sub>
+      <sub>Developed a 2D top-down RPG for GEMASTIK XVIII, focusing on UI clarity and usability. Designed interface systems to remain readable and responsive.</sub>
     </td>
-    <td align="center" valign="top">
-      <br/>
+    <td align="center" valign="top"><br/>
       <strong>INTERN OF THE COSMOS</strong><br/>
       <sub>Lead Programmer · Asset Artist · Audio Engineer</sub><br/>
-      <sub>
-      Developed a physics-based "indirect control" game for GDGOC Game Jam. 
-      Engineered custom gravitational pull mechanics and orbital momentum systems.
-      </sub>
+      <sub>Developed a physics-based 'indirect control' game for GDGOC Game Jam. Engineered custom gravitational pull mechanics and orbital momentum systems.</sub>
     </td>
-    <td align="center" valign="top">
-      <br/>
-      <strong>DECK OF ASCENT</strong><br/>
-      <sub>Unity Programmer</sub><br/>
-      <sub>
-      Built a turn-based card system with emphasis on modularity and fast balancing.  
-      Structured core mechanics to support rapid iteration during a game jam environment.
-      </sub>
+    <td align="center" valign="top"><br/>
+      <strong>OMNI-GEAR PROTOCOL</strong><br/>
+      <sub>Game Designer · Project Manager</sub><br/>
+      <sub>A high-stakes physics platformer where you sacrifice your own mechanical parts to power a decaying factory — and pray you can get them back.</sub>
     </td>
   </tr>
-
   <tr>
-    <td align="center">
-      <br/>
+    <td align="center"><br/>
       <a href="https://github.com/sleepymor/StardustStudio-YAPPIECleaningService"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
       <a href="https://sleepymor.itch.io/yappie-cleaning-service"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
-    <td align="center">
-      <br/>
+    <td align="center"><br/>
       <a href="https://github.com/muhammadzaini213/TIM-3-GDGoC-UNSRI"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
       <a href="https://lordzaini.itch.io/intern-of-the-cosmos"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
-    <td align="center">
-      <br/>
-      <a href="https://github.com/sleepymor/GlobalIllumination-GimersiaJam"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+    <td align="center"><br/>
+      <a href="https://github.com/muhammadzaini213/Omni-Gear-Protocol"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="33%">
-      <a href="https://lordzaini.itch.io/solar-siege">
-        <img src="https://github.com/user-attachments/assets/fe678e35-41df-4869-b372-321b9bd3a30a" width="100%" alt="Solar Siege" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://lordzaini.itch.io/the-hero-is-on-the-way">
-        <img src="https://github.com/user-attachments/assets/87e3747c-e3ac-41f3-8281-bc31feea2d8f" width="100%" alt="The Hero Is On The Way" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn">
-        <img src="https://github.com/user-attachments/assets/09d7af30-61d1-4d47-8946-7a2894e750b3" width="100%" alt="4D Tic Tac Toe" />
-      </a>
-    </td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/solar-siege"><img src="https://github.com/user-attachments/assets/fe678e35-41df-4869-b372-321b9bd3a30a" width="100%" alt="SOLAR SIEGE" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/the-hero-is-on-the-way"><img src="https://github.com/user-attachments/assets/87e3747c-e3ac-41f3-8281-bc31feea2d8f" width="100%" alt="THE HERO IS ON THE WAY" /></a></td>
+    <td align="center" width="33%"><a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://github.com/user-attachments/assets/2cd438a5-a927-4188-bbb5-0ddf25c0cb20" width="100%" alt="DECK OF ASCENT" /></a></td>
   </tr>
-
   <tr>
-    <td align="center" valign="top">
-      <br/>
+    <td align="center" valign="top"><br/>
       <strong>SOLAR SIEGE</strong><br/>
       <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>
-      Implemented a modular shooting system and FSM-based enemy behaviors. 
-      Prioritized runtime performance and rapid iteration under tight constraints.
-      </sub>
+      <sub>Designed and implemented a modular enemy and shooting system for a top-down bullet hell. Prioritized runtime performance and stability.</sub>
     </td>
-    <td align="center" valign="top">
-      <br/>
+    <td align="center" valign="top"><br/>
       <strong>THE HERO IS ON THE WAY</strong><br/>
       <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>
-      Designed a tactical defense system integrating narrative with player decision-making.  
-      Balanced system depth with time constraints to maintain readability.
-      </sub>
+      <sub>Designed a tactical defense system integrating narrative progression with player decision-making. Balanced system depth with time constraints.</sub>
     </td>
-    <td align="center" valign="top">
-      <br/>
-      <strong>4D TIC TAC TOE</strong><br/>
-      <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>
-      Experimented with simultaneous turn-based mechanics in a multi-dimensional space.  
-      Focused on deterministic conflict resolution and spatial strategy.
-      </sub>
+    <td align="center" valign="top"><br/>
+      <strong>DECK OF ASCENT</strong><br/>
+      <sub>Unity Programmer</sub><br/>
+      <sub>Built a turn-based card system with emphasis on clarity, modularity, and fast balancing. Structured core mechanics for rapid iteration.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <br/>
+    <td align="center"><br/>
       <a href="https://github.com/muhammadzaini213/Solar-Siege"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
       <a href="https://lordzaini.itch.io/solar-siege"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
-    <td align="center">
-      <br/>
+    <td align="center"><br/>
       <a href="https://github.com/muhammadzaini213/The-Hero-Is-On-The-Way"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
       <a href="https://lordzaini.itch.io/the-hero-is-on-the-way"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
-    <td align="center">
-      <br/>
-      <a href="https://github.com/muhammadzaini213/4d-Tic-Tac-Toe"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://lordzaini.itch.io/4d-tic-tac-toe-with-simultaneous-turn"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+    <td align="center"><br/>
+      <a href="https://github.com/sleepymor/GlobalIllumination-GimersiaJam"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
   </tr>
 </table>
