@@ -67,7 +67,7 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
   </tr>
   <tr>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/solar-siege"><img src="https://github.com/user-attachments/assets/fe678e35-41df-4869-b372-321b9bd3a30a" width="100%" alt="SOLAR SIEGE" /></a></td>
-    <td align="center" width="33%"><a href="https://lordzaini.itch.io/the-hero-is-on-the-way"><img src="https://github.com/user-attachments/assets/87e3747c-e3ac-41f3-8281-bc31feea2d8f" width="100%" alt="THE HERO IS ON THE WAY" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/directive"><img src="https://github.com/user-attachments/assets/ffcba582-6e62-418e-82d8-d5715835529d" width="100%" alt="DIRECTIVE" /></a></td>
     <td align="center" width="33%"><a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://github.com/user-attachments/assets/2cd438a5-a927-4188-bbb5-0ddf25c0cb20" width="100%" alt="DECK OF ASCENT" /></a></td>
   </tr>
   <tr>
@@ -77,9 +77,9 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <sub>Designed and implemented a modular enemy and shooting system for a top-down bullet hell. Prioritized runtime performance and stability.</sub>
     </td>
     <td align="center" valign="top"><br/>
-      <strong>THE HERO IS ON THE WAY</strong><br/>
-      <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>Designed a tactical defense system integrating narrative progression with player decision-making. Balanced system depth with time constraints.</sub>
+      <strong>DIRECTIVE</strong><br/>
+      <sub>Game Designer · Project Manager</sub><br/>
+      <sub>A bullet hell game that that explores the fragility of wrong setup for an AI system. Designed for high stakes gameplay and player clarity.</sub>
     </td>
     <td align="center" valign="top"><br/>
       <strong>DECK OF ASCENT</strong><br/>
@@ -93,8 +93,8 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <a href="https://lordzaini.itch.io/solar-siege"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
     <td align="center"><br/>
-      <a href="https://github.com/muhammadzaini213/The-Hero-Is-On-The-Way"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://lordzaini.itch.io/the-hero-is-on-the-way"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+      <a href="https://github.com/muhammadzaini213/Directive"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/directive"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
     <td align="center"><br/>
       <a href="https://github.com/sleepymor/GlobalIllumination-GimersiaJam"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
