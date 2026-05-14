@@ -30,9 +30,9 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
 ## MY GAMES
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://sleepymor.itch.io/yappie-cleaning-service"><img src="https://github.com/user-attachments/assets/32412663-fbc7-4d06-95e4-8666107acd67" width="100%" alt="YAPPIE CLEANING SERVICE" /></a></td>
-    <td align="center" width="33%"><a href="https://lordzaini.itch.io/intern-of-the-cosmos"><img src="https://github.com/user-attachments/assets/b73df9a4-b8ea-4ba6-aa89-34ebfbb13df6" width="100%" alt="INTERN OF THE COSMOS" /></a></td>
-    <td align="center" width="33%"><a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://github.com/user-attachments/assets/bd80a713-e116-4f45-8fdb-63f5fc2b536f" width="100%" alt="OMNI-GEAR PROTOCOL" /></a></td>
+    <td align="center" width="33%"><a href="https://sleepymor.itch.io/yappie-cleaning-service"><img src="https://github.com/user-attachments/assets/fdba2393-ee85-4161-a37f-a169b41d1336" width="100%" alt="YAPPIE CLEANING SERVICE" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/intern-of-the-cosmos"><img src="https://github.com/user-attachments/assets/a517786d-cce6-412a-98ce-ccb5c54430f8" width="100%" alt="INTERN OF THE COSMOS" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://github.com/user-attachments/assets/9669010e-f3c9-44f8-872d-3f85065ca37c" width="100%" alt="OMNI-GEAR PROTOCOL" /></a></td>
   </tr>
   <tr>
     <td align="center" valign="top"><br/>
@@ -66,9 +66,9 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%"><a href="https://lordzaini.itch.io/solar-siege"><img src="https://github.com/user-attachments/assets/fe678e35-41df-4869-b372-321b9bd3a30a" width="100%" alt="SOLAR SIEGE" /></a></td>
-    <td align="center" width="33%"><a href="https://lordzaini.itch.io/directive"><img src="https://github.com/user-attachments/assets/ffcba582-6e62-418e-82d8-d5715835529d" width="100%" alt="DIRECTIVE" /></a></td>
-    <td align="center" width="33%"><a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://github.com/user-attachments/assets/2cd438a5-a927-4188-bbb5-0ddf25c0cb20" width="100%" alt="DECK OF ASCENT" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/solar-siege"><img src="https://github.com/user-attachments/assets/a1533de4-6014-4c8c-9304-106d58164860" width="100%" alt="SOLAR SIEGE" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/directive"><img src="https://github.com/user-attachments/assets/be747fdf-064b-4593-ade5-fdcbd54493eb" width="100%" alt="DIRECTIVE" /></a></td>
+    <td align="center" width="33%"><a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://github.com/user-attachments/assets/e96a0f54-02ac-40ea-85e2-756ba1742c70" width="100%" alt="DECK OF ASCENT" /></a></td>
   </tr>
   <tr>
     <td align="center" valign="top"><br/>
