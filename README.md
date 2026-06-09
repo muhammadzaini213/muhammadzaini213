@@ -68,7 +68,7 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
   <tr>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/solar-siege"><img src="https://github.com/user-attachments/assets/a1533de4-6014-4c8c-9304-106d58164860" width="100%" alt="SOLAR SIEGE" /></a></td>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/directive"><img src="https://github.com/user-attachments/assets/be747fdf-064b-4593-ade5-fdcbd54493eb" width="100%" alt="DIRECTIVE" /></a></td>
-    <td align="center" width="33%"><a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://github.com/user-attachments/assets/e96a0f54-02ac-40ea-85e2-756ba1742c70" width="100%" alt="DECK OF ASCENT" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/the-puppet-pioneer"><img src="https://github.com/user-attachments/assets/3e0dfe45-b292-4edc-bd2f-63019b1481ec" width="100%" alt="THE PUPPET PIONEER" /></a></td>
   </tr>
   <tr>
     <td align="center" valign="top"><br/>
@@ -82,9 +82,9 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <sub>A bullet hell game that that explores the fragility of wrong setup for an AI system. Designed for high stakes gameplay and player clarity.</sub>
     </td>
     <td align="center" valign="top"><br/>
-      <strong>DECK OF ASCENT</strong><br/>
-      <sub>Unity Programmer</sub><br/>
-      <sub>Built a turn-based card system with emphasis on clarity, modularity, and fast balancing. Structured core mechanics for rapid iteration.</sub>
+      <strong>THE PUPPET PIONEER</strong><br/>
+      <sub>Project Lead · Game Designer</sub><br/>
+      <sub>A 2D rhythm game where you control a puppet by pulling its strings. Designed for high replayability and player engagement.</sub>
     </td>
   </tr>
   <tr>
@@ -97,8 +97,8 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <a href="https://lordzaini.itch.io/directive"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
     <td align="center"><br/>
-      <a href="https://github.com/sleepymor/GlobalIllumination-GimersiaJam"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://sleepymor.itch.io/deck-of-ascent"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+      <a href="https://github.com/muhammadzaini213/The-Puppet-Pioneer"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/the-puppet-pioneer"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
   </tr>
 </table>
