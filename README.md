@@ -32,7 +32,7 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
   <tr>
     <td align="center" width="33%"><a href="https://sleepymor.itch.io/yappie-cleaning-service"><img src="https://github.com/user-attachments/assets/fdba2393-ee85-4161-a37f-a169b41d1336" width="100%" alt="YAPPIE CLEANING SERVICE" /></a></td>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/intern-of-the-cosmos"><img src="https://github.com/user-attachments/assets/a517786d-cce6-412a-98ce-ccb5c54430f8" width="100%" alt="INTERN OF THE COSMOS" /></a></td>
-    <td align="center" width="33%"><a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://github.com/user-attachments/assets/9669010e-f3c9-44f8-872d-3f85065ca37c" width="100%" alt="OMNI-GEAR PROTOCOL" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/pandoras-snake"><img src="https://github.com/user-attachments/assets/7029ae91-e8d0-42f5-ba98-6b0c0ba8256d" width="100%" alt="PANDORA SNAKE" /></a></td>
   </tr>
   <tr>
     <td align="center" valign="top"><br/>
@@ -46,9 +46,9 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <sub>Developed a physics-based 'indirect control' game for GDGOC Game Jam. Engineered custom gravitational pull mechanics and orbital momentum systems.</sub>
     </td>
     <td align="center" valign="top"><br/>
-      <strong>OMNI-GEAR PROTOCOL</strong><br/>
-      <sub>Game Designer · Project Manager</sub><br/>
-      <sub>A high-stakes physics platformer where you sacrifice your own mechanical parts to power a decaying factory — and pray you can get them back.</sub>
+      <strong>PANDORA'S SNAKE</strong><br/>
+      <sub>Project Lead · Programmer</sub><br/>
+      <sub>An absurd action-destruction game for GAMESEED 2026, reimagining classic Snake Xenzia. Led development and engineered destruction, growth, and livestream-chaos systems.</sub>
     </td>
   </tr>
   <tr>
@@ -61,25 +61,25 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <a href="https://lordzaini.itch.io/intern-of-the-cosmos"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
     <td align="center"><br/>
-      <a href="https://github.com/muhammadzaini213/Omni-Gear-Protocol"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+      <a href="https://github.com/Slafurry-Studios/Pandora-Snake"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/pandoras-snake"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%"><a href="https://lordzaini.itch.io/solar-siege"><img src="https://github.com/user-attachments/assets/a1533de4-6014-4c8c-9304-106d58164860" width="100%" alt="SOLAR SIEGE" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://github.com/user-attachments/assets/9669010e-f3c9-44f8-872d-3f85065ca37c" width="100%" alt="OMNI-GEAR PROTOCOL" /></a></td>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/directive"><img src="https://github.com/user-attachments/assets/be747fdf-064b-4593-ade5-fdcbd54493eb" width="100%" alt="DIRECTIVE" /></a></td>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/the-puppet-pioneer"><img src="https://github.com/user-attachments/assets/3e0dfe45-b292-4edc-bd2f-63019b1481ec" width="100%" alt="THE PUPPET PIONEER" /></a></td>
   </tr>
   <tr>
     <td align="center" valign="top"><br/>
-      <strong>SOLAR SIEGE</strong><br/>
-      <sub>Game Designer · Unity Programmer</sub><br/>
-      <sub>Designed and implemented a modular enemy and shooting system for a top-down bullet hell. Prioritized runtime performance and stability.</sub>
+      <strong>OMNI-GEAR PROTOCOL</strong><br/>
+      <sub>Game Designer · Project Manager</sub><br/>
+      <sub>A high-stakes physics platformer where you sacrifice your own mechanical parts to power a decaying factory — and pray you can get them back.</sub>
     </td>
     <td align="center" valign="top"><br/>
       <strong>DIRECTIVE</strong><br/>
       <sub>Game Designer · Project Manager</sub><br/>
-      <sub>A bullet hell game that that explores the fragility of wrong setup for an AI system. Designed for high stakes gameplay and player clarity.</sub>
+      <sub>A bullet hell game that explores the fragility of wrong setup for an AI system. Designed for high stakes gameplay and player clarity.</sub>
     </td>
     <td align="center" valign="top"><br/>
       <strong>THE PUPPET PIONEER</strong><br/>
@@ -89,8 +89,8 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
   </tr>
   <tr>
     <td align="center"><br/>
-      <a href="https://github.com/muhammadzaini213/Solar-Siege"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://lordzaini.itch.io/solar-siege"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+      <a href="https://github.com/muhammadzaini213/Omni-Gear-Protocol"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
     <td align="center"><br/>
       <a href="https://github.com/muhammadzaini213/Directive"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
