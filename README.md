@@ -6,7 +6,7 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
 <p align="left">
   <img src="https://img.shields.io/badge/UNITY GAME DEVELOPER-fed001?style=for-the-badge&logo=unity&logoColor=2d2d2d" />
   <img src="https://img.shields.io/badge/BALIKPAPAN • INDONESIA-2d2d2d?style=for-the-badge&logo=googlemaps&logoColor=fed001" />
-  <img src="https://img.shields.io/badge/ITK • GPA 3.72-2d2d2d?style=for-the-badge&logo=bookstack&logoColor=fed001" />
+  <img src="https://img.shields.io/badge/ITK • GPA 3.72-fed001?style=for-the-badge&logo=bookstack&logoColor=2d2d2d" />
 </p>
 
 ---
@@ -142,5 +142,7 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-fed001?style=for-the-badge&logo=google-chrome&logoColor=1a1a00)](https://zaini-portofolio.vercel.app/)
 [![Itch.io](https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001)](https://lordzaini.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiNmZWQwMDEiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43MjlWMjIuMjdjMCAuOTU1Ljc5MiAxLjczIDEuNzcxIDEuNzNoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI1IDI0IDIyLjI3VjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/muhammad-zaini-a8582b306)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fed001?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiMxYTFhMDAiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43MjlWMjIuMjdjMCAuOTU1Ljc5MiAxLjczIDEuNzcxIDEuNzNoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI1IDI0IDIyLjI3VjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&logoColor=1a1a00)](https://www.linkedin.com/in/muhammad-zaini-a8582b306)
 [![Email](https://img.shields.io/badge/Email-2d2d2d?style=for-the-badge&logo=gmail&logoColor=fed001)](mailto:gamerlemah15@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-fed001?style=for-the-badge&logo=youtube&logoColor=1a1a00)](https://www.youtube.com/@ZenSlafuraga)
+[![Instagram](https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=fed001)](https://www.instagram.com/muhammad_zaini2404/)
