@@ -6,7 +6,7 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
 <p align="left">
   <img src="https://img.shields.io/badge/UNITY GAME DEVELOPER-fed001?style=for-the-badge&logo=unity&logoColor=2d2d2d" />
   <img src="https://img.shields.io/badge/BALIKPAPAN • INDONESIA-2d2d2d?style=for-the-badge&logo=googlemaps&logoColor=fed001" />
-  <img src="https://img.shields.io/badge/ITK • GPA 3.72-fed001?style=for-the-badge&logo=bookstack&logoColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/ITK • GPA 3.72-2d2d2d?style=for-the-badge&logo=bookstack&logoColor=fed001" />
 </p>
 
 ---
@@ -46,9 +46,9 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <sub>Developed a physics-based 'indirect control' game for GDGOC Game Jam. Engineered custom gravitational pull mechanics and orbital momentum systems.</sub>
     </td>
     <td align="center" valign="top"><br/>
-      <strong>PANDORA'S SNAKE</strong><br/>
+      <strong>PANDORA SNAKE</strong><br/>
       <sub>Project Lead · Programmer</sub><br/>
-      <sub>An absurd action-destruction game for GAMESEED 2026, reimagining classic Snake Xenzia. Led development and engineered destruction, growth, and livestream-chaos systems.</sub>
+      <sub>An absurd action-destruction game for GAMESEED 2026, reimagining classic Snake as a fast-paced arcade experience. Ranked Top 61 at GAMESEED 2026. Led development and engineered destruction, growth, and livestream-chaos systems across a multiverse setting.</sub>
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
   <tr>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://github.com/user-attachments/assets/9669010e-f3c9-44f8-872d-3f85065ca37c" width="100%" alt="OMNI-GEAR PROTOCOL" /></a></td>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/directive"><img src="https://github.com/user-attachments/assets/be747fdf-064b-4593-ade5-fdcbd54493eb" width="100%" alt="DIRECTIVE" /></a></td>
-    <td align="center" width="33%"><a href="https://lordzaini.itch.io/the-puppet-pioneer"><img src="https://github.com/user-attachments/assets/3e0dfe45-b292-4edc-bd2f-63019b1481ec" width="100%" alt="THE PUPPET PIONEER" /></a></td>
+    <td align="center" width="33%"><a href="https://slafurrystudios.itch.io/an-unfinished-game"><img src="PASTE_IMAGE_URL_HERE" width="100%" alt="AN UNFINISHED GAME" /></a></td>
   </tr>
   <tr>
     <td align="center" valign="top"><br/>
@@ -78,13 +78,13 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
     </td>
     <td align="center" valign="top"><br/>
       <strong>DIRECTIVE</strong><br/>
-      <sub>Game Designer · Project Manager</sub><br/>
-      <sub>A bullet hell game that explores the fragility of wrong setup for an AI system. Designed for high stakes gameplay and player clarity.</sub>
+      <sub>Narrative Designer · Game Designer</sub><br/>
+      <sub>An AI soldier who believes it's the hero — until the truth about who it's really fighting starts to unravel. A narrative-driven bullet hell exploring obedience, perception, and the cost of a directive followed without question.</sub>
     </td>
     <td align="center" valign="top"><br/>
-      <strong>THE PUPPET PIONEER</strong><br/>
-      <sub>Project Lead · Game Designer</sub><br/>
-      <sub>A 2D rhythm game where you control a puppet by pulling its strings. Designed for high replayability and player engagement.</sub>
+      <strong>AN UNFINISHED GAME</strong><br/>
+      <sub>Production Lead · Systems Designer</sub><br/>
+      <sub>A 2D narrative platformer about a game studio founder whose perfectionism turns against him. Finalist at Game Today 2026. Reduced scope from 20 to 10 rooms while preserving the core narrative, restructured the story to fit, and built automation tooling (reminder, asset retrieval, and deployment bots) that boosted team productivity by ~40%.</sub>
     </td>
   </tr>
   <tr>
@@ -97,8 +97,8 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
       <a href="https://lordzaini.itch.io/directive"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
     <td align="center"><br/>
-      <a href="https://github.com/muhammadzaini213/The-Puppet-Pioneer"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
-      <a href="https://lordzaini.itch.io/the-puppet-pioneer"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
+      <a href="https://github.com/Slafurry-Studios/An-Unfinished-Game"><img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" /></a>
+      <a href="https://slafurrystudios.itch.io/an-unfinished-game"><img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" /></a>
     </td>
   </tr>
 </table>
