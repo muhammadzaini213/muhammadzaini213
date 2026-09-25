@@ -84,7 +84,7 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
     <td align="center" valign="top"><br/>
       <strong>AN UNFINISHED GAME</strong><br/>
       <sub>Production Lead · Systems Designer</sub><br/>
-      <sub>A 2D narrative platformer about a game studio founder whose perfectionism turns against him. Finalist at Game Today 2026. Reduced scope from 20 to 10 rooms while preserving the core narrative, restructured the story to fit, and built automation tooling (reminder, asset retrieval, and deployment bots) that boosted team productivity by ~40%.</sub>
+      <sub>A 2D narrative platformer about a game studio founder whose perfectionism turns against him. Finalist at Game Today 2026. Reduced scope, restructured the story, and built automation tooling that boosted team productivity by ~40%.</sub>
     </td>
   </tr>
   <tr>
