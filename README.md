@@ -68,7 +68,7 @@ Building gameplay systems that are scalable, reusable, and optimized for rapid i
   <tr>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://github.com/user-attachments/assets/9669010e-f3c9-44f8-872d-3f85065ca37c" width="100%" alt="OMNI-GEAR PROTOCOL" /></a></td>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/directive"><img src="https://github.com/user-attachments/assets/be747fdf-064b-4593-ade5-fdcbd54493eb" width="100%" alt="DIRECTIVE" /></a></td>
-    <td align="center" width="33%"><a href="https://slafurrystudios.itch.io/an-unfinished-game"><img src="PASTE_IMAGE_URL_HERE" width="100%" alt="AN UNFINISHED GAME" /></a></td>
+    <td align="center" width="33%"><a href="https://slafurrystudios.itch.io/an-unfinished-game"><img src="https://github.com/user-attachments/assets/14d57a0e-e78f-4add-89c9-b5f7e35f7c8b" width="100%" alt="AN UNFINISHED GAME" /></a></td>
   </tr>
   <tr>
     <td align="center" valign="top"><br/>
